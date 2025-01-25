@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What is the total revenue for the year 2024?",
+        "answer": "The total revenue for the year 2024 is \u20b9153,670 crore."
+    },
+    {
+        "question": "What is the gross profit for Q3 2024?",
+        "answer": "To calculate the gross profit for Q3 2024, you can use the formula:\nGross Profit = Total Revenue from Operations - Total Operating Expenses\n\nFrom the provided context:\nTotal Revenue from Operations for Q3 2024 = \u20b937,923 crore\nTotal Operating Expenses for Q3 2024 = \u20b914,510 crore\n\nTherefore, the Gross Profit for Q3 2024 is:\n\u20b937,923 crore - \u20b914,510 crore = \u20b923,413 crore"
+    },
+    {
+        "question": "What were the expenses on employee benefits for 2024?",
+        "answer": "The total expenses on employee benefits for the year 2024 were \u20b982,620 crore."
+    },
+    {
+        "question": "What is the comparison between net income and operating expenses for 2024?",
+        "answer": "Net income for 2024 was \u20b926,248 crore, while total operating expenses for the same period amounted to \u20b9122,393 crore. Therefore, the comparison between net income and operating expenses for 2024 shows a substantial difference, with net income significantly lower than total operating expenses."
+    },
+    {
+        "question": "What is the value of goodwill as of March 31, 2024?",
+        "answer": "The value of goodwill as of March 31, 2024, is \u20b97,303 crores."
+    },
+    {
+        "question": "What are the key components of current liabilities?",
+        "answer": "The key components of current liabilities are:\n1. Lease liabilities\n2. Trade payables\n3. Other financial liabilities\n4. Other current liabilities\n5. Provisions\n6. Income tax liabilities (net)"
+    },
+    {
+        "question": "What is the total equity as of March 31, 2024?",
+        "answer": "To calculate the total equity as of March 31, 2024, we can use the formula:\nTotal Equity = Total Assets - Total Liabilities\n\nGiven that the total liabilities as of March 31, 2024 is 8,359 crore, we need to find the total assets to determine the total equity. Unfortunately, the total assets information is not provided in the context provided. Without the total assets figure, we are unable to calculate the total equity accurately."
+    },
+    {
+        "question": "What is the total revenue for the year ending March 31, 2024?",
+        "answer": "The total revenue for the year ending March 31, 2024 is \u20b9153,670 crore."
+    },
+    {
+        "question": "What is the net profit reported for the same period?",
+        "answer": "The net profit reported for the same period is \u20b97,975 crore."
+    },
+    {
+        "question": "How does the profit for 2024 compare to 2023?",
+        "answer": "To determine how the profit for 2024 compares to 2023, we need to calculate the profit for each year. Profit can be calculated by subtracting the total expenses from the total revenues. Given the information provided, we can calculate the profit for 2024 and 2023 by subtracting the total expenses from the total revenues for each year. Once these values are calculated, we can compare the profits for both years to see how they differ."
+    },
+    {
+        "question": "What are the total assets and liabilities as of March 31, 2024?",
+        "answer": "Total assets as of March 31, 2024: \u20b9137,814 crore\nTotal liabilities as of March 31, 2024: \u20b9125,816 crore"
+    },
+    {
+        "question": "How much goodwill is recorded on the balance sheet?",
+        "answer": "The goodwill recorded on the balance sheet is \u20b97,303 crore as at March 31, 2024."
+    },
+    {
+        "question": "What is the net cash flow from operating activities?",
+        "answer": "The net cash flow from operating activities for the year ended March 31, 2024, is \u20b925,210 crore and for the year ended March 31, 2023, is \u20b922,467 crore."
+    },
+    {
+        "question": "How does the cash flow from investing activities differ between 2023 and 2024?",
+        "answer": "The cash flow from investing activities differed between 2023 and 2024 by \u20b93,800 crore. In 2023, the net cash used in investing activities was \u20b91,209 crore, while in 2024, the net cash generated from investing activities was \u20b92,591 crore."
+    },
+    {
+        "question": "What were the significant financing activities in 2024?",
+        "answer": "The significant financing activities in 2024 include the retirement of certain assets not in use with a gross book value of \u20b9181 crore and \u20b9775 crore during the three months and year ended March 31, 2024, respectively. Additionally, there were changes in the carrying value of property, plant, and equipment, with additions totaling \u20b92,830 crore and deletions amounting to \u20b92,197 crore for the year ended March 31, 2023."
+    },
+    {
+        "question": "How much dividend was paid during the year?",
+        "answer": "During the year ended March 31, 2024, the total dividend paid by the company was \u20b914,692 crore (excluding dividend paid on treasury shares)."
+    },
+    {
+        "question": "Were there any share buybacks or issuance of new shares?",
+        "answer": "Yes, there were share buybacks during the period mentioned. The company repurchased a total of 60,426,348 equity shares from the stock exchange at an average buyback price of \u20b91,539.06 per share."
+    },
+    {
+        "question": "What does Note 2.1 state about business combinations?",
+        "answer": "Note 2.1 states that business combinations have been accounted for using the acquisition method under the provisions of Ind AS 103, Business Combinations. The purchase price in an acquisition is measured at the fair value of the assets transferred, equity instruments issued, and liabilities incurred or assumed at the date of acquisition, which is the date on which control is transferred to the Group. The purchase price also includes the fair value of any contingent consideration."
+    },
+    {
+        "question": "How are property, plant, and equipment (PPE) accounted for and valued according to Note 2.2?",
+        "answer": "Property, plant, and equipment (PPE) are accounted for by determining their expected useful life and expected residual value at the end of their life. The Group depreciates PPE over their estimated useful lives using the straight-line method. The estimated useful lives and residual values of the Group's assets are determined by Management at the time of acquisition and reviewed periodically. Subsequent expenditures related to PPE are capitalized only when it is probable that future economic benefits will flow to the Group and the cost can be reliably measured. Impairment tests are conducted whenever events indicate that the carrying amounts of PPE may not be recoverable."
+    },
+    {
+        "question": "How much was spent on employee benefits?",
+        "answer": "Employee benefit expenses for the period amounted to \u20b920,393 crore."
+    },
+    {
+        "question": "What is the carrying value of goodwill as of March 31, 2024?",
+        "answer": "The carrying value of goodwill as of March 31, 2024, is \u20b97,303 crore."
+    },
+    {
+        "question": "What are the critical accounting estimates and judgments described in the financial statements?",
+        "answer": "The critical accounting estimates and judgments described in the financial statements pertain to revenue recognition. These estimates, judgments, and assumptions affect the application of accounting policies, the reported amounts of assets and liabilities, as well as the disclosures of contingent assets and liabilities. The Group's contracts with customers involving multiple products and services are considered for recognition and measurement based on specific criteria outlined in the financial statements."
+    },
+    {
+        "question": "How are property, plant, and equipment classified and accounted for?",
+        "answer": "Property, plant, and equipment are classified as non-current assets on the balance sheet. They are initially recorded at cost and subsequently measured at historical cost less accumulated depreciation and any impairment losses. Depreciation is calculated based on the estimated useful life and residual value of each asset. The carrying amount of property, plant, and equipment is reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable. Any impairment losses are recognized in the financial statements."
+    },
+    {
+        "question": "What are the details provided in Note 2.1 regarding business combinations?",
+        "answer": "In Note 2.1 regarding business combinations, the details provided include the accounting policy stating that business combinations have been accounted for using the acquisition method under the provisions of Ind AS 103, Business Combinations. The purchase price in an acquisition is measured at the fair value of the assets transferred, equity instruments issued, and liabilities incurred or assumed at the date of acquisition. It also includes the fair value of any contingent consideration. Identifiable assets acquired and liabilities assumed in a business combination are measured initially at their fair value on the date of acquisition. Contingent consideration is remeasured at fair value at each reporting date, and changes in the fair value of contingent consideration are recognized in the Consolidated Statement of Profit and Loss."
+    },
+    {
+        "question": "How is revenue from operations recognized in the financial statements?",
+        "answer": "Revenue from operations is recognized in the financial statements based on individual customers invoiced or in relation to which the revenue is otherwise recognized within each business segment."
+    },
+    {
+        "question": "What is the basis of preparation for the interim condensed consolidated financial statements?",
+        "answer": "The interim condensed consolidated financial statements are prepared in compliance with Indian Accounting Standard (Ind AS) 34 Interim Financial Reporting, under the historical cost convention on accrual basis except for certain financial instruments which are measured at fair values, the provisions of the Companies Act, 2013, and guidelines issued by the Securities and Exchange Board of India (SEBI)."
+    },
+    {
+        "question": "What is the composition of investments under current and non-current assets?",
+        "answer": "The composition of investments under current assets includes:\n- Unquoted investments carried at fair value through profit or loss: 2,615\n- Investments carried at fair value through other comprehensive income: 7,873\n- Quoted investments carried at amortized cost: 0\n- Quoted investments carried at fair value through other comprehensive income: 2,427\n\nThe composition of investments under non-current assets includes:\n- Quoted investments carried at amortized cost: 0\n- Quoted investments carried at fair value through other comprehensive income: 11,708"
+    },
+    {
+        "question": "What is included in the condensed consolidated statement of changes in equity?",
+        "answer": "The condensed consolidated statement of changes in equity includes the weighted average number of equity shares used for deriving basic earnings per equity share, the weighted average number of potentially dilutive equity shares, adjustments for dilutive potential equity shares, retrospective adjustments for share splits and bonus share issues, and details of any changes in equity resulting from these factors."
+    },
+    {
+        "question": "What are the significant financial instruments described in Note 2.10?",
+        "answer": "The significant financial instruments described in Note 2.10 are cash and cash equivalents, investments in equity and preference securities, tax free bonds and government bonds, liquid mutual fund units, target maturity fund units, non-convertible debentures, government securities, commercial papers, certificates of deposit, trade receivables, loans, and other financial assets."
+    },
+    {
+        "question": "How are trade receivables presented in the financial statements?",
+        "answer": "Trade receivables are initially measured at transaction price and subsequently measured at fair value. They are recognized in the financial statements at fair value on initial recognition. Transaction costs directly attributable to the acquisition or issue of trade receivables are added to the fair value on initial recognition."
+    },
+    {
+        "question": "What are the components of cash and cash equivalents as per Note 2.8?",
+        "answer": "The components of cash and cash equivalents as per Note 2.8 are as follows:\n- Cash on hand\n- Deposits with financial institutions"
+    },
+    {
+        "question": "What is the deferred tax liability or asset reported in the balance sheet?",
+        "answer": "The deferred tax liability or asset reported in the balance sheet is recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements, based on tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date. The deferred tax assets and liabilities are measured using these tax rates and laws, and are expected to apply to taxable income in the years in which the temporary differences are expected to be recovered or settled. The Group offsets current tax assets and liabilities, as well as deferred tax assets and liabilities, where there is a legally enforceable right to set off."
+    },
+    {
+        "question": "What are the provisions related to contingent liabilities and commitments in Note 2.21?",
+        "answer": "The provisions related to contingent liabilities and commitments in Note 2.21 state that a contingent liability is a possible obligation arising from past events, whose existence will be confirmed only by the occurrence or non-occurrence of uncertain future events not wholly within the control of the entity. It could also be a present obligation arising from past events that is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation, or the amount of the obligation cannot be measured with sufficient reliability."
+    },
+    {
+        "question": "How are leases accounted for in Note 2.19?",
+        "answer": "Leases are accounted for in Note 2.19 by assessing whether a contract contains a lease at inception, recognizing a right-of-use asset (ROU) and a corresponding lease liability for all lease arrangements where the Group is a lessee, except for short-term leases and low-value leases. For finance leases, the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, while operating leases are recognized differently. Rental income for operating leases is recognized on a straight-line basis over the term of the relevant lease."
+    },
+    {
+        "question": "What is the basis of consolidation mentioned in the overview section?",
+        "answer": "The basis of consolidation mentioned in the overview section is that Infosys consolidates entities which it owns or controls. The interim condensed consolidated financial statements comprise the financial statements of the Company, its controlled trusts, and its subsidiaries. Control exists when the parent has power over the entity, is exposed to or has rights to variable returns from its involvement with the entity, and has the ability to affect those returns by using its power over the entity. Power is demonstrated through existing rights that give the ability to direct relevant activities that significantly affect the entity's returns. Subsidiaries are consolidated from the date control commences until the date control ceases."
+    },
+    {
+        "question": "How are related party transactions detailed in Note 2.22?",
+        "answer": "Related party transactions are detailed in Note 2.22 of the financial statements."
+    },
+    {
+        "question": "What are the details of other income, net, provided in Note 2.17?",
+        "answer": "The details of other income, net provided in Note 2.17 are as follows:\n- For the year ended March 31, 2024: \u20b92,729 crore\n- For the year ended March 31, 2023: \u20b9671 crore"
+    },
+    {
+        "question": "What information is presented in the segment reporting section in Note 2.23?",
+        "answer": "The segment reporting section in Note 2.23 presents information about operating segments, products and services, geographic areas, and major customers of the Group. It includes details about how public business enterprises report operating segments and related disclosures. The Group's operations, which focus on providing end-to-end business solutions to enhance client business performance, are evaluated by the Chief Operating Decision Maker (CODM) based on various performance indicators by business segments. The accounting principles used in preparing financial statements are consistently applied to record revenue and expenditure in individual segments."
+    },
+    {
+        "question": "How is the income tax expense broken down in Note 2.15?",
+        "answer": "The income tax expense in Note 2.15 is broken down as follows:\n- Current taxes: \u20b91,173 crore for the three months ended March 31, 2024, and \u20b98,390 crore for the year ended March 31, 2024.\n- Deferred taxes: \u20b91,092 crore for the three months ended March 31, 2024, and \u20b91,350 crore for the year ended March 31, 2024."
+    }
+]
