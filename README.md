@@ -69,7 +69,7 @@ This project involves a Streamlit app that can be run locally or deployed on an 
 
 File Structure
 Copy
-my-streamlit-app/
+part2/
 ├── app.py                # Main Streamlit application file
 ├── backend.py            # Backend logic for the app
 ├── requirements.txt      # Python dependencies
@@ -80,8 +80,8 @@ my-streamlit-app/
 
 Run Locally
 Clone the repository:
-git clone https://github.com/your-username/my-streamlit-app.git
-cd my-streamlit-app
+git clone https://github.com/arunkum54/financialQA-Bot.git
+cd part2
 
 
 Install dependencies:
