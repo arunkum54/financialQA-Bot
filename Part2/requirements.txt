@@ -11,4 +11,4 @@ python-dotenv==1.0.0
 streamlit==1.33.0
 python-dotenv==1.0.0
 torch==2.0.1
-torchvision==0.15.2  # Add this line
+torchvision==0.15.2 
