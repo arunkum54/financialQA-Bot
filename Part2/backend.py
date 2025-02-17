@@ -17,6 +17,7 @@ import torch
 import re
 import pytesseract
 import os
+import streamlit as st
 import pandas as pd
 from PIL import Image
 from datetime import datetime
