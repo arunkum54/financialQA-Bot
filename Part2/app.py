@@ -56,9 +56,9 @@ def main():
                 structured_data = structure_extracted_text(raw_text)
                 
                 # Generating chunks with different strategies so that the LLM can get best one chuck and understand particular context properly
-                small_chunks = chunk_structured_data(structured_data, chunk_size=906, overlap=380)
-                medium_chunks = chunk_structured_data(structured_data, chunk_size=960, overlap=412)
-                large_chunks = chunk_structured_data(structured_data, chunk_size=1005, overlap=501)
+                small_chunks = chunk_structured_data(structured_data, chunk_size=800, overlap=300)
+                medium_chunks = chunk_structured_data(structured_data, chunk_size=950, overlap=375)
+                large_chunks = chunk_structured_data(structured_data, chunk_size=1100, overlap=450)
 
                 # Combining all chunks
                 all_chunks = small_chunks + large_chunks+ medium_chunks
