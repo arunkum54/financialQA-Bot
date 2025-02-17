@@ -31,6 +31,8 @@ from openai import OpenAI
 # PLease use your API for the following , sorry for this but you can use my API just to test my code 
 # PINECONE_API_KEY = "pcsk_utwYR_C7q4xZxvhh32bgHuBHYVGDA4XYZPCr9dgpb64mHx3gKRvLLfArTTZnqL6uKNa8" #use your API
 # OPENAI_API_KEY = "pcsk_utwYR_C7q4xZxvhh32bgHuBHYVGDA4XYZPCr9dgpb64mHx3gKRvLLfArTTZnqL6uKNea8" # use your API
+PINECONE_API_KEY = st.secrets["PINECONE_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 # Text extracting with OCR fallback to pdfplumber
 def extract_text_from_pdf(pdf_path):
     extracted_text = []
