@@ -12,7 +12,7 @@ import torchvision
 torchvision.disable_beta_transforms_warning()
 # IMPORTING LIBRARIES
 import pdfplumber
-import pinecone
+#import pinecone
 import torch
 import re
 import pytesseract
